@@ -1,0 +1,2 @@
+# mgvae
+majority-guided vae
